@@ -1,0 +1,4 @@
+.idea
+photon*firmware*.bin
+core_firmware*.bin
+.DS_Store

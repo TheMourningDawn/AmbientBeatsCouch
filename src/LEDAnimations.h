@@ -8,7 +8,7 @@
 
 FASTLED_USING_NAMESPACE;
 
-#define NUM_LEDS 381
+#define NUM_LEDS 326 //381 w/ the peice that broke off :|
 
 class LEDAnimations : public AmbientBeatsLEDAnimations
 {

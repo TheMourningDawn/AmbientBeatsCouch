@@ -1,0 +1,3 @@
+[submodule "lib/SpectrumEqualizerClient"]
+	path = lib/SpectrumEqualizerClient
+	url = https://github.com/TheMourningDawn/SpectrumEqualizerClient.git
